@@ -1,0 +1,1 @@
+# potencialseguros-application
